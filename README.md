@@ -1,16 +1,29 @@
-## Hi there 👋
+👋 Hi there! I'm Mustafa Ravda — a Data Analyst and machine learning enthusiast passionate about transforming data into meaningful insights.
 
-<!--
-**Mustafa-Ravda/Mustafa-Ravda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What began as a hobby—exploring datasets and experimenting with Python—soon turned into a potential career path. I built a strong foundation in Python, SQL, Statistics, and Power BI.
 
-Here are some ideas to get you started:
+My journey has been driven by a deep interest in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Exploratory Data Analysis (EDA)
+
+🔮 Predictive analytics
+
+📊 Building interactive dashboards
+
+🤖 Developing machine learning models that drive real-world impact
+
+I’m dedicated to leveraging data to empower businesses, organizations, and individuals with actionable insights and data-driven solutions.
+
+🛠 Tools and Skills:
+Data Querying: SQL Server & SSMS
+
+Visualization: Power BI for building insightful dashboards and reports
+
+Python Libraries: NumPy, Pandas, Matplotlib, Seaborn
+
+Machine Learning: Scikit-learn, SciPy for predictive modeling and data analysis
+
+Generative AI: ChatGPT, DeepSeek, Julius AI for advanced AI-driven capabilities
+
+IDE: Jupyter Notebook & Visual Studio Code for interactive data exploration and development
+
