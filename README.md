@@ -1,3 +1,5 @@
+![Mustafa Ravda](https://github.com/user-attachments/assets/6abcb457-61e0-4691-87b0-4b5484fedafd)
+
 👋 Hi there! I'm Mustafa Ravda — a Data Analyst and machine learning enthusiast passionate about transforming data into meaningful insights.
 
 What began as a hobby—exploring datasets and experimenting with Python—soon turned into a potential career path. I built a strong foundation in Python, SQL, Statistics, and Power BI.
