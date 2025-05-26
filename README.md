@@ -29,3 +29,10 @@ Generative AI: ChatGPT, DeepSeek, Julius AI for advanced AI-driven capabilities
 
 IDE: Jupyter Notebook & Visual Studio Code for interactive data exploration and development
 
+📊 GitHub Stats:
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mustafa-Ravda&show_icons=true&theme=github_dark" alt="GitHub Stats" /> <br /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mustafa-Ravda&theme=github-dark" alt="GitHub Streak" /> <br /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mustafa-Ravda&layout=compact&theme=github_dark" alt="Top Languages" /> </p>
+
+## Get in Touch:
+- **LinkedIn**: www.linkedin.com/in/mustafaravda
+- **Email**: (mustafaravda@gmail.com)
+
